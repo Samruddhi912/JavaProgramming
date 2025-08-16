@@ -21,7 +21,6 @@ public class program11 {
         char str=sobj.next().charAt(0);
         Convert cobj=new Convert();
         cobj.Conversion(str);
-
         sobj.close();
 
     }
